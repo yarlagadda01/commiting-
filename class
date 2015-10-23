@@ -1,0 +1,1 @@
+When installing Nexus for production usage you should configure Nexus as a service, so it starts back up after server reboots. It is good practice to run that service or daemon as a specific user that has only the required access righs. The following sections provide instructions for configuring Nexus as a service or daemon on various operating systems.
